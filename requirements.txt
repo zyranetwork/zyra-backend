@@ -4,3 +4,7 @@ sqlalchemy
 pydantic
 gunicorn
 python-multipart
+requests
+python-jose
+passlib
+python-dotenv
